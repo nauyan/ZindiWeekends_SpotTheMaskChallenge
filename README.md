@@ -21,9 +21,9 @@ Images in the dataset did not have fixed size therfore it was mandatory to resiz
 
 The size of dataset is small so we needed to add more data for training and we used data augmentations. For Data Augmentation we performed:
 
--Rotation
--Zoom
--Shear 
--Width Shift
--Heights Shift
+- Rotation
+- Zoom
+- Shear 
+- Width Shift
+- Heights Shift
 
