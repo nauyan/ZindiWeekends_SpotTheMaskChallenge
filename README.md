@@ -30,7 +30,11 @@ The size of dataset is small so we needed to add more data for training and we u
 ## Model Diagram
 For this Challenge we have used EfficientNet-B0 as it was lightweights as compared to its counterparts.
 
+The architecture of EfficientNet-B0 is as follows: 
 <img src="https://miro.medium.com/max/1400/0*JLuknWK8xxihUlM6.png" width="1024">
+
+Comparision of EfficientNet-B0 with other models with respect to Top1 Accuracy and Parameters
+<img src="https://miro.medium.com/max/1000/1*t3HHr3oJ4FeJRYw5rLDROw.png" width="1024">
 
 We had also tried other models but didn't perform better than EfficientNet-B0. Some of these models were:
 - Inception-ResNet V2
