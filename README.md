@@ -14,4 +14,4 @@ The dataset comprises of the following files:
 - [train_labels.csv](https://api.zindi.africa/v1/competitions/spot-the-mask-challenge/files/train_labels.csv)
 - [sample_submission.csv](https://api.zindi.africa/v1/competitions/spot-the-mask-challenge/files/sample_sub_v2.csv)
 
-Details about the dataset and challenge can be seen on (Challenge page)[https://zindi.africa/hackathons/spot-the-mask-challenge]
+Details about the dataset and challenge can be seen on [Challenge page](https://zindi.africa/hackathons/spot-the-mask-challenge)
