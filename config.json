@@ -7,7 +7,7 @@
   "compressFile" : "images.zip",
   "Epochs" : 70,
   "Batch" : 4,
-  "Dropout" : 0.2,
+  "Dropout" : 0.1,
   "Model_Path" : "./Best.h5",
   "LabelFiles" : "train_labels.csv"
 }
