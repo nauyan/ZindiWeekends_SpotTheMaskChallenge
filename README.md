@@ -15,3 +15,15 @@ The dataset comprises of the following files:
 - [sample_submission.csv](https://api.zindi.africa/v1/competitions/spot-the-mask-challenge/files/sample_sub_v2.csv)
 
 Details about the dataset and challenge can be seen on [Challenge page](https://zindi.africa/hackathons/spot-the-mask-challenge)
+
+## Data Prepration
+Images in the dataset did not have fixed size therfore it was mandatory to resize them for training. Therefore after careful consideration and looking at memory constraints we decided to resize all the images to 256x256. Along with this Images were normalized before performing data augmentation.
+
+The size of dataset is small so we needed to add more data for training and we used data augmentations. For Data Augmentation we performed:
+
+-Rotation
+-Zoom
+-Shear 
+-Width Shift
+-Heights Shift
+
