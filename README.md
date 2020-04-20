@@ -42,5 +42,29 @@ We had also tried other models but didn't perform better than EfficientNet-B0. S
 - VGG16
 - Inception V3
 
+## Pre-Trained Models
+The Pre-Trained models can be downloaded from [google drive](https://drive.google.com/drive/folders/1g5SdbW8q1Z0e9dk6cW431JO01BDq4g0H).
+
+## Installation
+To get this repo work please install all the dependencies using the command below:
+```
+pip install -r requirments.txt
+```
+
+## Training
+To start training run the Train.py script from the command below. For training configurations refer to the [config.json](./config.json) file. You can update the file according to your training settings. Model avaible for training are U-NET,SegNet, DeepLabv3+.
+```
+ python Train.py
+```
+
+## Testing
+To test the trained models on Test Images you first have to download the weights and place them in the [results](./Results/). After downliading the weights you unzip them and then run the Inference by using the command below. For testing configurations please refer to the [config.json](./config.json) file.
+```
+python Test.py
+```
+
+## Author
+`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
+
 
 
