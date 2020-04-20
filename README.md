@@ -52,7 +52,7 @@ pip install -r requirments.txt
 ```
 
 ## Training
-To start training run the Train.py script from the command below. For training configurations refer to the [config.json](./config.json) file. You can update the file according to your training settings. Model avaible for training is EfficientNet-B0.
+To start training run the Train.py script from the command below. For training configurations refer to the [config.json](./config.json) file and to modify loss function and other similar parameters refer to Training File. You can update the file according to your training settings. Model avaible for training is EfficientNet-B0.
 ```
  python Train.py
 ```
