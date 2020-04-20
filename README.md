@@ -43,7 +43,7 @@ We had also tried other models but didn't perform better than EfficientNet-B0. S
 - Inception V3
 
 ## Pre-Trained Models
-The Pre-Trained models can be downloaded from [google drive](https://drive.google.com/drive/folders/1g5SdbW8q1Z0e9dk6cW431JO01BDq4g0H).
+The Pre-Trained models can be downloaded from [google drive](https://drive.google.com/drive/folders/1YKYTB-8BWSVaNSHM3kMOp2LLEi_tiiLz).
 
 ## Installation
 To get this repo work please install all the dependencies using the command below:
