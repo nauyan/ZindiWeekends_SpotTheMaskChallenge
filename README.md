@@ -63,10 +63,11 @@ To test the trained models on Test Images you first have to download the weights
 python Test.py
 ```
 ## Quantitatvie Results
+Results on Private Leaderboard of Challenge
 
 | Model | Loss | Accuracy | 
 | ----- | ---- | ---- | 
-| EfficientNet-B0 | 0.0835 | 0.9150 
+| EfficientNet-B0 | 0.0256 | 0.9920 
 
 ## Results
 EfficientNet-B0 is trained for this task and the model is evaluated on accurary and loss function used is Binary Cross Entropy.
