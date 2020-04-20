@@ -1,0 +1,13 @@
+{
+  "im_width" : 256,
+  "im_height" : 256,
+  "compressFolder" : "images",
+  "TestFolder" : "TestImages",
+  "TrainFolder" : "TrainImages",
+  "compressFile" : "images.zip",
+  "Epochs" : 70,
+  "Batch" : 4,
+  "Dropout" : 0.2,
+  "Model_Path" : "./Best.h5",
+  "LabelFiles" : "train_labels.csv"
+}
