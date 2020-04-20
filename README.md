@@ -1,4 +1,4 @@
-# ZindiWeekends_SpotTheMaskChallenge
+# Zindi Weekends Spot The Mask Challenge
 
 <p align="center">Note: If you're interested in using it, feel free to ⭐️ the repo so we know!</p>
 
@@ -63,7 +63,7 @@ To test the trained models on Test Images you first have to download the weights
 python Test.py
 ```
 ## Quantitatvie Results
-Results on Private Leaderboard of Challenge
+Results Reported on Private Leaderboard of Challenge
 
 | Model | Loss | Accuracy | 
 | ----- | ---- | ---- | 
