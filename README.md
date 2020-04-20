@@ -52,13 +52,13 @@ pip install -r requirments.txt
 ```
 
 ## Training
-To start training run the Train.py script from the command below. For training configurations refer to the [config.json](./config.json) file. You can update the file according to your training settings. Model avaible for training are U-NET,SegNet, DeepLabv3+.
+To start training run the Train.py script from the command below. For training configurations refer to the [config.json](./config.json) file. You can update the file according to your training settings. Model avaible for training is EfficientNet-B0.
 ```
  python Train.py
 ```
 
 ## Testing
-To test the trained models on Test Images you first have to download the weights and place them in the [results](./Results/). After downliading the weights you unzip them and then run the Inference by using the command below. For testing configurations please refer to the [config.json](./config.json) file.
+To test the trained models on Test Images you first have to download the weights. After downliading the weights you unzip them and then run the Inference by using the command below. For testing configurations please refer to the [config.json](./config.json) file.
 ```
 python Test.py
 ```
