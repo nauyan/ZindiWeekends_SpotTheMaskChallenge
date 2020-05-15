@@ -77,7 +77,7 @@ EfficientNet-B0 is trained for this task and the model is evaluated on accurary 
 </p>
 
 ## Author
-`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
+`Maintainer` [Syed Nauyan Rashid](https://github.com/nauyan) (nauyan@hotmail.com)
 
 ## Acknowledgements
 - [Implementation of EfficientNet by qubvel](https://github.com/qubvel/efficientnet)
